@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DigitalRootCalculator\bin\Debug\DigitalRootCalculator.exe.config
+C:\Users\HP\source\repos\DigitalRootCalculator\bin\Debug\DigitalRootCalculator.exe
+C:\Users\HP\source\repos\DigitalRootCalculator\bin\Debug\DigitalRootCalculator.pdb
+C:\Users\HP\source\repos\DigitalRootCalculator\obj\Debug\DigitalRootCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DigitalRootCalculator\obj\Debug\DigitalRootCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DigitalRootCalculator\obj\Debug\DigitalRootCalculator.exe
+C:\Users\HP\source\repos\DigitalRootCalculator\obj\Debug\DigitalRootCalculator.pdb
